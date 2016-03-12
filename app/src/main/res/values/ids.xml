@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_circle_menu_item_image" type="id"/>
+    <item name="id_circle_menu_item_text" type="id"/>
+    <item name="id_circle_menu_item_center" type="id"/>
+    <item name="id_circle_menu_center_image" type="id"/>
+    <item name="id_circle_menu_center_albumname" type="id"/>
+    <item name="id_circle_meunu_center_albumnumber" type="id"/>
+    <item name="id_circle_menu_item_focus" type="id"/>
+</resources>

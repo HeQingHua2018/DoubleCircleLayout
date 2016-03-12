@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="CircleColor" format="color" />
+        <attr name="imageAngle" format="float" />
+        <attr name="isHasFrame" format="boolean" />
+    </declare-styleable>
+</resources>
