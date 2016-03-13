@@ -66,3 +66,6 @@
         </RelativeLayout>
 
     </com.loommo.circlelayout.ui.widget.DoubleCircleLayout>
+    
+博客地址  ：
+  http://blog.csdn.net/u014204844/article/details/50868529
