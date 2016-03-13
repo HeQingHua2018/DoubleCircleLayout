@@ -15,15 +15,11 @@
         android:alpha="0.1"
         android:adjustViewBounds="true" />
 
-    <!--app:layout_heightPercent="67%"-->
-
     <com.loommo.circlelayout.ui.widget.DoubleCircleLayout
         android:id="@+id/fragment_circle"
         android:layout_width="match_parent"
         android:layout_height="450dp"
         android:layout_gravity="center|left">
-        <!--app:layout_heightPercent="75%"
-        app:layout_widthPercent="100%">-->
 
         <ImageView
             android:id="@id/id_circle_menu_item_focus"
@@ -49,36 +45,6 @@
                 app:isHasFrame="false"
                 android:src="@mipmap/test"
                 android:layout_margin="40dp"/>
-
-            <!--<ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="40dp"
-                android:adjustViewBounds="true"
-                android:src="@mipmap/inx_13" />-->
-
-            <!--<TextView
-                android:id="@id/id_circle_menu_center_albumname"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_above="@+id/id_circle_menu_center_albumnumber"
-                android:layout_centerHorizontal="true"
-                android:text="@string/main_album_name"
-                android:textColor="#ffffff"
-                android:textSize="13sp" />
-
-            <TextView
-                android:id="@id/id_circle_menu_center_albumnumber"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="40dp"
-                android:text="@string/main_album_number"
-                android:textColor="#ffffff"
-                android:textSize="11sp" />-->
 
         </RelativeLayout>
 

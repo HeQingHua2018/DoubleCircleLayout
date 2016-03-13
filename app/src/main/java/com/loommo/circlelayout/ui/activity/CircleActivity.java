@@ -47,7 +47,7 @@ public class CircleActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        //载入相册数据
+        //载入数据
         mResIds = new ArrayList<>();
         mResIds.add(R.mipmap.test);
         mResIds.add(R.mipmap.test2);
