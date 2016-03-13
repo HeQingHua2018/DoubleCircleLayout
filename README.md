@@ -1,7 +1,7 @@
 ##概述
 双圆圈菜单，内外环均可以转动，内圈小白点对准外圈选项时，内圈切换图片。    
 
-![doublecircle](/Users/loommo/Desktop/android/CirclrLayout/CircleLayout3.gif)  
+![doublecircle](http://img.blog.csdn.net/20160313000216269)  
 
 ##使用方法
 
